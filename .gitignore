@@ -1,6 +1,4 @@
 # created by virtualenv automatically
 .env
-/bin
-/include
-/lib
-/lib64 
+/bot-env
+__pycacye__

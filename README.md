@@ -1,6 +1,11 @@
 ## Features
 
-My First Discord Chatbot provides the following features:
+
+#
+
+# maksim@pop-os:~/Documents/chatBot/bot-env$ source ~/
+# Documents/chatBot/bot-env/bin/activate
+# My First Discord Chatbot provides the following features:
 
 - `!hello`: Sends a greeting message to the user.
 - `!roll`: Rolls a dice and returns the result.
